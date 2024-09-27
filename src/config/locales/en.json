@@ -1,0 +1,13 @@
+{
+  "signUp": "Sign up",
+  "login":"Login",
+  "forgotPassword":"Forgot password",
+  "Username":"Username",
+  "Password":"Password",
+  "userNameErr":"Username is required",
+  "passwordErr":"Password is required",
+  "otpTitle":"OTP Verification",
+  "verificationNumberText":"Please enter the verification code send to +91 9876543210",
+  "secText":"sec",
+  "statusOtp":"Didn't Receive an OTP?"
+}
